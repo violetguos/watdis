@@ -1,8 +1,13 @@
 import QuoteOfTheDay from "./QuoteOfTheDay";
+import Footer from './Footer';
 
 function App() {
   return (
-    <QuoteOfTheDay />
+    <div>
+      <QuoteOfTheDay />
+      <Footer />
+    </div>
+    
   );
 }
 

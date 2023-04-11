@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/watdis/static/css/main.4242e5b0.css",
-    "main.js": "/watdis/static/js/main.98c92e70.js",
+    "main.js": "/watdis/static/js/main.5cf7f107.js",
     "index.html": "/watdis/index.html",
     "main.4242e5b0.css.map": "/watdis/static/css/main.4242e5b0.css.map",
-    "main.98c92e70.js.map": "/watdis/static/js/main.98c92e70.js.map"
+    "main.5cf7f107.js.map": "/watdis/static/js/main.5cf7f107.js.map"
   },
   "entrypoints": [
     "static/css/main.4242e5b0.css",
-    "static/js/main.98c92e70.js"
+    "static/js/main.5cf7f107.js"
   ]
 }
